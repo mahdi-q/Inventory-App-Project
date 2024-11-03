@@ -1,5 +1,6 @@
 import CategoryView from "./CategoryView.js";
 import ProductView from "./ProductView.js";
+import "../css/main.css"
 
 document.addEventListener("DOMContentLoaded", () => {
   // set app => get categories & products
